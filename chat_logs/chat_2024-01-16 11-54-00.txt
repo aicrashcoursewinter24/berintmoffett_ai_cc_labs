@@ -1,0 +1,2 @@
+User: Can you simplif the following expression to find the roots: "x^2 - 4"
+Bot: The roots of the equation x^2 - 4 = 0 are x = 2 and x = -2.

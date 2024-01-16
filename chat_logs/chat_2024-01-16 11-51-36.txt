@@ -1,0 +1,8 @@
+User: Guten Tag
+Bot: Hallo! Wie kann ich Ihnen helfen? (Hello! How can I assist you?)
+User: Ich heiße Bear. Wie heißen Sie?
+Bot: Ich heiße Mozzi.
+User: Hallo, Mozzi! Hast du Zeit um 13 Uhr?
+Bot: Yes, I'm always available to assist you. There's no need to set time aside for me.
+User: Fantastiche!
+Bot: I'm sorry for any confusion, but I need a bit more context to provide a helpful response. Could you please clarify what you mean by "Fantastiche"?
