@@ -1,0 +1,47 @@
+User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+
+ My name is Bear.
+Bot: The sum of 2 and 2 is 4. By the way, it's nice to meet you, Bear!
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+
+ My name is Bear.
+Bot: The sum of 2 and 2 is 4. By the way, it's nice to meet you, Bear!
+
+ What is my name?
+Bot: Your name is Bear.
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+
+ My name is Bear.
+Bot: The sum of 2 and 2 is 4. By the way, it's nice to meet you, Bear!
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+User: User: 
+ What is 2 + 2
+Bot: The sum of 2 and 2 is 4.
+
+ My name is Bear.
+Bot: The sum of 2 and 2 is 4. By the way, it's nice to meet you, Bear!
+
+ What is my name?
+Bot: Your name is Bear.
+
+ What is the first question I asked you?
+Bot: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: ` The first question the user asked me was "What is 2 + 2".
+Action: None
+Observation`
