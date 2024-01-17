@@ -28,10 +28,14 @@ def check_input(user_input):
 
 
 def main():
+    print("This chatbot simulates memory by feeding each response and input back into the model.")
+    print("This may consume a lot of tokens, so be careful.")
+
     agent = build_simple_agent()
     now = datetime.datetime.now().strftime("%Y-%m-%d %H-%M-%S")
     lines = []
     while check_input(user_input := input("Enter prompt ('exit' to quit): ")):
+        user_input = "".join(lines) + "\n " + user_input
         try:
             response = agent.invoke({"input": user_input})
         except Exception as e:

@@ -1,0 +1,9 @@
+User: 
+ My name is Bear.
+Bot: Hello Bear, it's nice to meet you!
+User: User: 
+ My name is Bear.
+Bot: Hello Bear, it's nice to meet you!
+
+ What is my name?
+Bot: Your name is Bear.
