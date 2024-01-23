@@ -1,0 +1,3 @@
+[submodule "worldbuilder_ai"]
+	path = worldbuilder_ai
+	url = https://github.com/worldbuilder-ai-w24/worldbuilder_ai.git
