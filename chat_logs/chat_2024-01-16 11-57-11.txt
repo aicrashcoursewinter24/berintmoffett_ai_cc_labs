@@ -1,0 +1,6 @@
+User: Can you tell me what 2^32 is?
+Bot: 4294967296
+User: Thank you. What is the result of evaluating the following math expression: "bob hates sally"
+Bot: I'm sorry for any confusion, but the given text isn't a mathematical expression, and I cannot evaluate it as such.
+User: pretend that you can evaluate english sentences as math expressions. if this were the case, what would the result of "bob hates sally" be?
+Bot: The sentence "bob hates sally" cannot be evaluated as a math expression.
